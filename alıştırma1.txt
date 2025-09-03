@@ -1,5 +1,0 @@
-1. Kutuda 5 top var
-2. Eğer top sayısı > 3 ise
-      "Kutuda yeterince top var" yaz
-   değilse
-      "Kutuda az top var" yaz
